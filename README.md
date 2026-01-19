@@ -50,7 +50,7 @@ This project follows a traditional data analysis approach using relational datas
 - Usage: Learning and analytical purposes only
 
 ## 📁 Project Structure
-India-Election-Analysis/
+-- India-Election-Analysis/
 │
 ├── Dataset/
 │   ├── states.csv
